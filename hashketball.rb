@@ -112,5 +112,4 @@ game_hash = {
 
   }
 }
-}
 end
